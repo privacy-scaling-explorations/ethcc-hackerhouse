@@ -35,10 +35,7 @@ PSE is a multidisciplinary team supported by the Ethereum Foundation. The team e
 
 ### **Steps to Submit Your Project:**
 
-To submit your project please follow the steps below 
-
-**Submit a PR**
-Fork this repository to your GitHub account and submit a PR. Your PR Should contain the following.
+To submit your project please follow the steps below fork this repository to your GitHub account and submit a PR. Your PR Should contain the following.
 
 ```
 ### Team name
