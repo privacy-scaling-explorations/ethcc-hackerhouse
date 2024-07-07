@@ -33,40 +33,48 @@ PSE is a multidisciplinary team supported by the Ethereum Foundation. The team e
 
 ## **How to Submit Your Work**
 
-### **Steps to Submit Your Code:**
+### **Steps to Submit Your Project:**
 
-1. **Fork the Repository:**
-   - Fork this repository to your GitHub account.
+To submit your project please follow the steps below 
 
-2. **Clone Your Fork:**
-   ```bash
-   git clone https://github.com/your-username/hacker-house-ethcc-2024.git
-   cd hacker-house-ethcc-2024
-   ```
+**Submit a PR**
+Fork this repository to your GitHub account and submit a PR. Your PR Should contain the following.
 
-3. **Create a New Branch:**
-   ```bash
-   git checkout -b my-project
-   ```
+```
+### Team name
 
-4. **Add Your Project Files:**
-   - Add all your project files (code, documentation, etc.) to your branch.
+**Contributors:**
+- 
 
-5. **Commit Your Changes:**
-   ```bash
-   git add .
-   git commit -m "Add my project"
-   ```
+**Project Description:**
+- 
 
-6. **Push Your Branch:**
-   ```bash
-   git push origin my-project
-   ```
+**Technical Stack:**
+- 
 
-7. **Create a Pull Request:**
-   - Go to your forked repository on GitHub and create a pull request to the main repository.
+**Goals:**
+- 
 
-## **Participating Teams and Technologies**
+GitHub Link: 
+Video Link:
+```
+
+Add this information in the `Hacker House Projects` Section
+
+## **Hacker House Projects**
+Add your project descriptions below. 
+
+### Team 1
+
+### Team 2
+
+### Team 3
+
+### Team 4
+
+### Team 5
+
+## **Participating PSE Teams and Technologies**
 
 ### **WAX (Wallet Account eXperiments)**
 - **GitHub:** [WAX Repository](https://github.com/getwax)
