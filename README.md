@@ -33,38 +33,65 @@ PSE is a multidisciplinary team supported by the Ethereum Foundation. The team e
 
 ## **How to Submit Your Project**
 
-To submit your project please follow the steps below 
+To submit your project please follow the steps below
 
 1. Fork this repository to your GitHub account
 2. Create a new branch with your team name
 3. Submit a PR. Your PR Should contain the following.
-   
 
 ```
 ### Team name
 
 **Contributors:**
-- 
+-
 
 **Project Description:**
-- 
+-
 
 **Technical Stack:**
-- 
+-
 
 **Project Goals:**
-- 
+-
 
-GitHub Link: 
+GitHub Link:
 Video Link:
 ```
 
 Add this information in the `Hacker House Projects` Section
 
 ## **Hacker House Projects**
-Add your project descriptions below. 
 
-### Team 1
+Add your project descriptions below.
+
+### Zk Legos
+
+**Contributors:**
+
+- @brolag
+- @baumstern
+- @jihoonsong
+- @zkfriendly
+
+**Project Description:**
+
+- This project aims to integrate Semaphore with an ERC-4337 compliant Paymaster to sponsor gas fees anonymously for Semaphore group members. Additionally it integrates MACI as a concrete use case and POAP for gate keeping.
+
+**Technical Stack:**
+
+- Solidity
+- Typescript
+- NextJs
+- ERC 4337
+
+**Project Goals:**
+
+- The project primarily aims to abstract away the intricacies of web3 and enhance the user experience in onboarding and interacting with dApps.
+
+
+GitHub Link:https://github.com/semaphore-paymaster
+
+Video Link:https://www.loom.com/share/67aa3d4d284c4e6294f00d6d852b4ad1?sid=43952cb2-c6fe-4a66-9502-9d1ae854715b
 
 ### Team 2
 
@@ -77,6 +104,7 @@ Add your project descriptions below.
 ## **Participating PSE Teams and Technologies**
 
 ### **WAX (Wallet Account eXperiments)**
+
 - **GitHub:** [WAX Repository](https://github.com/getwax)
 - **Description:** WAX will be a set of production-ready smart account components providing advanced features that can be easily utilized by wallets, SDKs, and dApps.
 - **Features:**
@@ -90,6 +118,7 @@ Add your project descriptions below.
   - **Wallet upgradability**
 
 ### **Anon Aadhaar**
+
 - **GitHub:** [Anon Aadhaar Repository](https://github.com/anon-aadhaar/anon-aadhaar)
 - **Description:** Anon Aadhaar is a protocol for proving ownership of an Aadhaar identity (Indian Residence ID) in a privacy-preserving manner.
 - **Features:**
@@ -104,10 +133,10 @@ Add your project descriptions below.
 - **Ethereum Developer Resources:** [Ethereum Dev](https://ethereum.org/en/developers/)
 - **PSE Website:** [PSE Website](https://pse.dev/en)
 
-
 ## **Contact Information**
 
 For any questions or assistance, feel free to reach out to:
+
 - **Phini:** [Telegram](https://t.me/)
 - **Mo:** [Telegram](https://t.me/)
 
@@ -116,5 +145,3 @@ For any questions or assistance, feel free to reach out to:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Let's build something amazing together!
-
-
