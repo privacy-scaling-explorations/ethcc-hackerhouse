@@ -69,6 +69,22 @@ Add your project descriptions below.
 ### Team 2
 
 ### Team 3
+### Marz: Multi-Factor Account Recovery levraging zk and ERC7579
+
+**Contributors:**
+- [Porco](https://github.com/porco-rosso-j)
+
+**Project Description:**
+- Social recovery module allows guardians to choose any supported recovery validators, such as ECDSA, AnonAadhaar, zkEmail, etc...
+
+**Technical Stack:**
+- ERC7579, Rhinestone ModuleKit, AnonAadhaar, Foundry for testing
+
+**Project Goals:**
+- This product aims to be widely integrated and used across modular smart account ecosystems, helping people easily recover their accounts relying on their friends and family who are not necessarily familiar with crypto in a privacy-preserving manner. 
+
+GitHub Link: https://github.com/porco-rosso-j/aadhaar-recovery-7579
+Video Link:
 
 ### Team 4
 
