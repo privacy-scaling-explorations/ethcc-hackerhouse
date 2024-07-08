@@ -76,6 +76,9 @@ Gnosis Safe modules and Semaphore
 **Project Goals:**
 Create a Gnosis Safe module with Semaphore "capabilities" to handle any Safe to perform anonymous actions
 
+Just a word about another project I worked on during the week: [Anon storage proofs](https://github.com/teddav/anon-storage-proof/).  
+Proving storage proofs with Halo2
+
 ### Team 2
 
 ### Team 3
