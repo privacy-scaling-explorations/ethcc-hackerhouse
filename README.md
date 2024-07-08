@@ -61,10 +61,20 @@ Video Link:
 
 Add this information in the `Hacker House Projects` Section
 
-## **Hacker House Projects**
-Add your project descriptions below. 
+## **Hacker House Projects** 
 
-### Team 1
+### Anon Whistleblower
+
+https://github.com/teddav/pse-hackerhouse-anon-whistleblower
+
+**Contributors:**
+@teddav  
+**Project Description:**
+Allows anybody who's part of a DAO to alert on the malfunctions of the DAO anonymously.  
+**Technical Stack:**
+Gnosis Safe modules and Semaphore  
+**Project Goals:**
+Create a Gnosis Safe module with Semaphore "capabilities" to handle any Safe to perform anonymous actions
 
 ### Team 2
 
