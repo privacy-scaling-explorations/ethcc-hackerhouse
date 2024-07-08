@@ -31,9 +31,7 @@ PSE is a multidisciplinary team supported by the Ethereum Foundation. The team e
 - **Potential Grants:** If mentors see potential in your work, we could offer grants to support your continued efforts.
 - **Best Arrival Time:** 10am-12pm on July 1st.
 
-## **How to Submit Your Work**
-
-### **Steps to Submit Your Project:**
+## **How to Submit Your Project**
 
 To submit your project please follow the steps below 
 
