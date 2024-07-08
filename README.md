@@ -66,7 +66,36 @@ Add your project descriptions below.
 
 ### Team 1
 
-### Team 2
+### Euclid - zk-Proofs for EU ID Cards
+
+- [GitHub Repository](https://github.com/0xSileo/Euclid)
+- [Video Presentation](https://drive.google.com/drive/folders/1ov9_Qo-a3KKf1uAqajLhDFO8ISatm0Ru)
+- [Slides](https://github.com/0xSileo/Euclid/blob/main/euclid-zk-proofs-for-eu-id-cards.pdf)
+
+**Contributors:**
+
+- [0xSileo](https://github.com/0xSileo)
+- [@pmuens](https://github.com/pmuens)
+
+**Project Description:**
+
+Zk-Snarkification of government signed data that can be read from EU ID cards.
+
+**Technical Stack:**
+
+- Circom
+- Snark.js
+- Mopro
+- React.js
+- Android SDK
+- TypeScript
+- Node.js
+
+**Project Goals:**
+
+The goal is for European citizens holding a new EU ID card to anonymously prove part of their identity through selective disclosure and zero-knowledge proofs.
+
+The card's data is read via the NFC capability of modern mobile phones. Once read, the data is prepared to be fed into a Circom circuit to generate Zero Knowledge Proofs. Proof generation will happen on the user's mobile phone to ensure their privacy is protected. Throughout the whole process no trusted 3rd party is involved which could leak personal data.
 
 ### Team 3
 
