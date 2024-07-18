@@ -72,6 +72,41 @@ Add your project descriptions below.
 
 ### Team 4
 
+**Contributors:**
+
+- [@alexander_bbs](https://github.com/alexand3rwilke)
+- [@chiefbiiko](https://github.com/chiefbiiko)
+
+**Project Description:**
+
+🅰️🅰️🅰️® is a recovery module allowing to recover "sub" Safes through a "master" Safe without any traceable link - maintaining privacy.
+
+The Safe module hosts a custom verifier which facilitates recovery action authorization through the "master" Safe in zero-knowledge.
+
+At the core of AAAR lies a ZK circuit capable of verifying EIP-1186 proofs. This primitive enables an array of use cases, such as anonymous Safe signers and proofs of ownership.
+
+We have been experimenting with various proof systems to come up with an implementation with acceptable memory consumption and speed so that they would be applicable in real-world use cases where computation must be near-real-time and client-side. We had experimented with SP1, during the hacker house we developed a MVP built with Halo2, still that implementation is not very performant, that's why we are currently building an alternative circuit implementation with Noir.
+
+**Technical Stack:**
+
+- Noir
+- (Halo2, halo2-lib, axiom-eth)
+- Rhinestone's ModuleKit
+- ERC7579
+- WASM
+
+**Project Goals:**
+
+- Provide a portable (i.e. WASM) implementation of an EIP-1186-verifying-zk-circuit prover alongside JS/TS and Rust adapters
+- Publish an AAAR Safe module for master-sub recovery
+
+GitHub Links:
+- https://github.com/chiefbiiko/halo2-storage-proof
+- https://github.com/chiefbiiko/noir-safe
+- https://github.com/chiefbiiko/sp1-safe
+
+Video Link: https://drive.google.com/file/d/1zglAs8JJG7lNzo-rvLk9hcD91QGYrMRb/view?usp=sharing
+
 ### Team 5
 
 ## **Participating PSE Teams and Technologies**
