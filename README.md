@@ -93,11 +93,108 @@ GitHub Link:https://github.com/semaphore-paymaster
 
 Video Link:https://www.loom.com/share/67aa3d4d284c4e6294f00d6d852b4ad1?sid=43952cb2-c6fe-4a66-9502-9d1ae854715b
 
-### Team 2
+
+### Anon Whistleblower
+
+https://github.com/teddav/pse-hackerhouse-anon-whistleblower
+
+**Contributors:**
+@teddav  
+**Project Description:**
+Allows anybody who's part of a DAO to alert on the malfunctions of the DAO anonymously.  
+**Technical Stack:**
+Gnosis Safe modules and Semaphore  
+**Project Goals:**
+Create a Gnosis Safe module with Semaphore "capabilities" to handle any Safe to perform anonymous actions
+
+Just a word about another project I worked on during the week: [Anon storage proofs](https://github.com/teddav/anon-storage-proof/).  
+Proving storage proofs with Halo2
+
+### Euclid - zk-Proofs for EU ID Cards
+
+- [GitHub Repository](https://github.com/0xSileo/Euclid)
+- [Video Presentation](https://drive.google.com/drive/folders/1ov9_Qo-a3KKf1uAqajLhDFO8ISatm0Ru)
+- [Slides](https://github.com/0xSileo/Euclid/blob/main/euclid-zk-proofs-for-eu-id-cards.pdf)
+
+**Contributors:**
+
+- [0xSileo](https://github.com/0xSileo)
+- [@pmuens](https://github.com/pmuens)
+
+**Project Description:**
+
+Zk-Snarkification of government signed data that can be read from EU ID cards.
+
+**Technical Stack:**
+
+- Circom
+- Snark.js
+- Mopro
+- React.js
+- Android SDK
+- TypeScript
+- Node.js
+
+**Project Goals:**
+
+The goal is for European citizens holding a new EU ID card to anonymously prove part of their identity through selective disclosure and zero-knowledge proofs.
+
+The card's data is read via the NFC capability of modern mobile phones. Once read, the data is prepared to be fed into a Circom circuit to generate Zero Knowledge Proofs. Proof generation will happen on the user's mobile phone to ensure their privacy is protected. Throughout the whole process no trusted 3rd party is involved which could leak personal data.
 
 ### Team 3
+### Marz: Multi-Factor Account Recovery levraging zk and ERC7579
+
+**Contributors:**
+- [Porco](https://github.com/porco-rosso-j)
+
+**Project Description:**
+- Social recovery module allows guardians to choose any supported recovery validators, such as ECDSA, AnonAadhaar, zkEmail, etc...
+
+**Technical Stack:**
+- ERC7579, Rhinestone ModuleKit, AnonAadhaar, Foundry for testing
+
+**Project Goals:**
+- This product aims to be widely integrated and used across modular smart account ecosystems, helping people easily recover their accounts relying on their friends and family who are not necessarily familiar with crypto in a privacy-preserving manner. 
+
+GitHub Link: https://github.com/porco-rosso-j/aadhaar-recovery-7579
+Video Link:
 
 ### Team 4
+
+**Contributors:**
+
+- [@alexander_bbs](https://github.com/alexand3rwilke)
+- [@chiefbiiko](https://github.com/chiefbiiko)
+
+**Project Description:**
+
+🅰️🅰️🅰️® is a recovery module allowing to recover "sub" Safes through a "master" Safe without any traceable link - maintaining privacy.
+
+The Safe module hosts a custom verifier which facilitates recovery action authorization through the "master" Safe in zero-knowledge.
+
+At the core of AAAR lies a ZK circuit capable of verifying EIP-1186 proofs. This primitive enables an array of use cases, such as anonymous Safe signers and proofs of ownership.
+
+We have been experimenting with various proof systems to come up with an implementation with acceptable memory consumption and speed so that they would be applicable in real-world use cases where computation must be near-real-time and client-side. We had experimented with SP1, during the hacker house we developed a MVP built with Halo2, still that implementation is not very performant, that's why we are currently building an alternative circuit implementation with Noir.
+
+**Technical Stack:**
+
+- Noir
+- (Halo2, halo2-lib, axiom-eth)
+- Rhinestone's ModuleKit
+- ERC7579
+- WASM
+
+**Project Goals:**
+
+- Provide a portable (i.e. WASM) implementation of an EIP-1186-verifying-zk-circuit prover alongside JS/TS and Rust adapters
+- Publish an AAAR Safe module for master-sub recovery
+
+GitHub Links:
+- https://github.com/chiefbiiko/halo2-storage-proof
+- https://github.com/chiefbiiko/noir-safe
+- https://github.com/chiefbiiko/sp1-safe
+
+Video Link: https://drive.google.com/file/d/1zglAs8JJG7lNzo-rvLk9hcD91QGYrMRb/view?usp=sharing
 
 ### Team 5
 
