@@ -98,8 +98,9 @@ Video Link:https://www.loom.com/share/67aa3d4d284c4e6294f00d6d852b4ad1?sid=43952
 
 https://github.com/teddav/pse-hackerhouse-anon-whistleblower
 
-**Contributors:**
-@teddav  
+**Contributors:**  
+[@teddav](https://github.com/teddav)
+
 **Project Description:**
 Allows anybody who's part of a DAO to alert on the malfunctions of the DAO anonymously.  
 **Technical Stack:**
